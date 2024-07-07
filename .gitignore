@@ -1,0 +1,9 @@
+venv/
+.venv/
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pem
+release
+*.log
